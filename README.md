@@ -1,2 +1,2 @@
 # tryouts
-Tryout code. Creating a repo to continue whenever possible
+Tryout codes. Creating a repo to continue whenever possible!
